@@ -41,7 +41,7 @@ def atualizar_saldo():
 
 janela = tk.Tk()
 janela.title("Simulador de Rendas")
-janela.geometry("380x300")
+janela.geometry("480x800")
 janela.config(bg="#0D6D8A")
 lbl_saldo = tk.Label(
     janela, text="Saldo Atual: R$ 0.00", font=("Arial", 14, "bold"), fg="Yellow", bg="#0d6b8a"

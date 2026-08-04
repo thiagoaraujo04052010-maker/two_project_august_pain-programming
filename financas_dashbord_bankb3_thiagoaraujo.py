@@ -1,4 +1,3 @@
-
 '''
 Objetivo: Aplicação completa em abas, com identidade visual inspirada na B3 (azul escuro e amarelo/dourado), incluindo controle de caixa, simulação de compra de Criptoativos e Extrato.
 
