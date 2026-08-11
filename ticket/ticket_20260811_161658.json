@@ -1,0 +1,41 @@
+{
+    "data_pedido": "2026-08-11 16:16:58",
+    "total_pedido": 118.5,
+    "itens": [
+        {
+            "item": "Açaí Ninho & Morango 500ml",
+            "categoria": "🍨 Copos & Tigelas",
+            "quantidade": 1,
+            "preco_unitario": 24.9,
+            "subtotal": 24.9
+        },
+        {
+            "item": "Tigela Maromba 700ml",
+            "categoria": "🍨 Copos & Tigelas",
+            "quantidade": 1,
+            "preco_unitario": 33.9,
+            "subtotal": 33.9
+        },
+        {
+            "item": "Copo Ferrero Rocher",
+            "categoria": "🍫 Combos Especiais",
+            "quantidade": 1,
+            "preco_unitario": 29.9,
+            "subtotal": 29.9
+        },
+        {
+            "item": "Suco de Açaí com Laranja 500ml",
+            "categoria": "🥤 Sucos & Vitaminas",
+            "quantidade": 1,
+            "preco_unitario": 12.9,
+            "subtotal": 12.9
+        },
+        {
+            "item": "Smoothie Açaí & Morango 400ml",
+            "categoria": "🥤 Sucos & Vitaminas",
+            "quantidade": 1,
+            "preco_unitario": 16.9,
+            "subtotal": 16.9
+        }
+    ]
+}
