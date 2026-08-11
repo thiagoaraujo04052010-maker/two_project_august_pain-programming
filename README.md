@@ -1,6 +1,4 @@
-Aqui está o código Markdown completo formatado dentro de um bloco de texto. Você pode clicar em **"Copiar"** no canto superior direito do bloco e colar direto no seu arquivo `README.md`:
 
-```markdown
 # 🍨 Açaí da Tia Lu & Co. - Cardápio Digital
 
 Uma aplicação desktop simples e intuitiva desenvolvida em **Python** utilizando a biblioteca **Tkinter**. O aplicativo funciona como um PDV (Ponto de Venda) digital para pedidos de açaí, permitindo selecionar produtos, calcular o total em tempo real, alternar temas visuais e exportar o comprovante do pedido no formato **JSON**.
